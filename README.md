@@ -35,17 +35,17 @@ I enjoy working on products where **engineering complexity, scale, and real-worl
 
 I design and build systems that are:
 
-**Scalable** — capable of growing with users, traffic, and business requirements.
+**Scalable**: capable of growing with users, traffic, and business requirements.
 
-**Reliable** — designed with failure, observability, and recovery in mind.
+**Reliable**: designed with failure, observability, and recovery in mind.
 
-**Maintainable** — structured so engineering teams can understand and evolve them.
+**Maintainable**: structured so engineering teams can understand and evolve them.
 
-**Performant** — optimized around the areas that actually matter to users and the business.
+**Performant**: optimized around the areas that actually matter to users and the business.
 
-**Secure** — designed with security as part of the architecture rather than an afterthought.
+**Secure**: designed with security as part of the architecture rather than an afterthought.
 
-**Production-ready** — built to operate reliably in real-world environments.
+**Production-ready**: built to operate reliably in real-world environments.
 
 ---
 
