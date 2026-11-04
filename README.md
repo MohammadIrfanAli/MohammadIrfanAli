@@ -1,197 +1,274 @@
 # 👋 Hi, I'm Muhammad Irfan Ali
 
-### Full Stack Software Engineer · Team Lead
+### Principal Software Engineer · Software Architecture · Full Stack & AI Engineering
 
-> **I build scalable systems, solve complex engineering problems, and lead teams that turn ideas into production-ready products.**
+> **I architect and engineer scalable software systems, solve complex technical challenges, and help teams turn ambitious ideas into reliable, production-ready products.**
 
-I'm a **Senior Full Stack Software Engineer and Team Lead** with **6+ years of experience** in software engineering, specializing in building high-performance web, mobile, backend, cloud, and AI-powered applications.
+I'm a **Principal Software Engineer with 7 years of experience** in software engineering, technical leadership, and system architecture. I specialize in designing, building, and scaling high-performance **web, mobile, backend, cloud, and AI-powered applications**.
 
-Throughout my career, I've worked across the full software development lifecycle — from **understanding business problems and designing architecture to implementation, deployment, optimization, and production operations**.
+Throughout my career, I've worked across the complete software development lifecycle — from understanding business requirements and defining technical direction to system architecture, implementation, deployment, optimization, and production operations.
 
-My engineering mindset goes beyond simply delivering features. I care about **architecture, scalability, reliability, performance, maintainability, developer experience, and long-term technical direction**.
+My engineering mindset goes beyond delivering features. I focus on **architectural decisions, scalability, reliability, performance, security, maintainability, developer experience, and long-term technical sustainability**.
+
+I enjoy working at the intersection of **software architecture, engineering execution, and technical leadership** — building systems that solve real business problems and enable teams to deliver with confidence.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm passionate about solving difficult engineering problems and turning complex requirements into simple, reliable software systems.
+I'm passionate about solving complex engineering problems and translating challenging requirements into simple, reliable, and scalable software systems.
 
 My experience spans multiple areas of modern software engineering:
 
-* 🏗️ **Software Architecture & System Design**
-* 💻 **Full Stack Web & Mobile Engineering**
-* ⚙️ **Backend & API Engineering**
-* ☁️ **Cloud & DevOps**
-* 🤖 **Generative AI, NLP & AI Agents**
-* 📊 **Data & Distributed Systems**
-* 🚀 **Performance & Scalability**
-* 👥 **Technical Leadership & Mentoring**
+- 🏗️ **Software Architecture & System Design**
+- 💻 **Full Stack Web & Mobile Engineering**
+- ⚙️ **Backend, API & Distributed Systems Engineering**
+- ☁️ **Cloud Architecture & DevOps**
+- 🤖 **Generative AI, LLMs, NLP & AI Agents**
+- 🗄️ **Database Architecture & Data Engineering**
+- 🚀 **Performance, Reliability & Scalability**
+- 🔐 **Application Security & Engineering Best Practices**
+- 👥 **Technical Leadership, Mentoring & Team Development**
+- 🔄 **CI/CD, Automation & Production Operations**
 
-I enjoy working on products where **engineering complexity, scale, and real-world business requirements intersect**.
+I enjoy working on products where **engineering complexity, business requirements, and real-world scale intersect**.
 
 ---
 
 ## 🎯 What I Do
 
-I design and build systems that are:
+I design, engineer, and help lead the development of software systems that are:
 
-**Scalable**: capable of growing with users, traffic, and business requirements.
+**Scalable** — architected to accommodate growing users, traffic, data, and evolving business requirements.
 
-**Reliable**: designed with failure, observability, and recovery in mind.
+**Reliable** — built with fault tolerance, failure handling, observability, and recovery in mind.
 
-**Maintainable**: structured so engineering teams can understand and evolve them.
+**Maintainable** — structured around clear boundaries, reusable components, and sound engineering principles.
 
-**Performant**: optimized around the areas that actually matter to users and the business.
+**Performant** — optimized through profiling, efficient algorithms, database optimization, and thoughtful system design.
 
-**Secure**: designed with security as part of the architecture rather than an afterthought.
+**Secure** — developed with secure architecture, authentication, authorization, and data protection in mind.
 
-**Production-ready**: built to operate reliably in real-world environments.
+**Production-ready** — supported by automated testing, CI/CD, monitoring, deployment strategies, and operational considerations.
 
 ---
 
 ## 🏗️ My Engineering Approach
 
-I believe strong engineering is not about using the most technologies.
+I believe strong engineering is not about adopting the latest technology or making systems unnecessarily complex.
 
-It's about making the **right technical decisions for the problem**.
+It's about understanding the problem, evaluating trade-offs, and making **the right technical decisions for the right reasons**.
 
-I typically think through a problem from:
+I approach engineering challenges through the entire lifecycle:
 
 ```text
 Business Requirements
         ↓
-System Design
+Technical Strategy & Planning
         ↓
-Architecture & Trade-offs
+System Design & Architecture
         ↓
-Implementation
+Technology & Architectural Trade-offs
+        ↓
+Implementation & Code Quality
         ↓
 Testing & Automation
         ↓
-Deployment
+CI/CD & Deployment
         ↓
-Observability
+Monitoring & Observability
         ↓
-Performance & Scale
+Performance, Reliability & Scale
         ↓
 Continuous Improvement
 ```
 
-I care about the decisions behind the code just as much as the code itself.
+I care about the reasoning behind architectural decisions just as much as their implementation. Good systems should not only work today — they should remain understandable, adaptable, and reliable as requirements evolve.
 
 ---
 
 ## 💡 Areas I Specialize In
 
-### Full Stack Engineering
+### 💻 Full Stack & Application Engineering
 
-I work across modern JavaScript and TypeScript ecosystems including:
+I work across modern frontend and backend ecosystems, building end-to-end applications, APIs, and product platforms.
 
-**React · Next.js · Vue · Angular · Svelte · Node.js · Express · NestJS · AdonisJS · Bun**
+**Frontend & Web:**  
+React · Next.js · Vue.js · Nuxt.js · Angular · Svelte · Redux · Context API
 
-I also work with:
+**Backend & Runtime:**  
+Node.js · Express.js · NestJS · AdonisJS · Hono · Bun
 
-**Python · FastAPI · Django · Java · Spring Boot · PHP · Laravel**
+**Additional Ecosystems:**  
+Python · FastAPI · Django · Java · Spring Boot · PHP · Laravel · WordPress
 
-and build API-driven applications using:
+**Mobile Engineering:**  
+React Native
 
-**REST · GraphQL**
+**API & Integration:**  
+REST APIs · GraphQL · WebSockets · Third-party Integrations
 
----
+### ⚙️ Backend Architecture & Distributed Systems
 
-### 🤖 AI & Intelligent Systems
+I'm interested in designing backend systems that remain reliable and maintainable as applications and engineering teams grow.
 
-I'm particularly interested in the rapidly evolving field of AI engineering.
+Areas of focus include:
+
+- Microservices & Service-Oriented Architecture
+- Monolithic & Modular Architecture
+- Domain-Driven Design (DDD)
+- Clean Architecture & SOLID Principles
+- Distributed Systems & Event-Driven Architecture
+- API Design, Versioning & Integration Patterns
+- Authentication & Authorization
+- Background Jobs & Asynchronous Processing
+- Caching & Database Optimization
+- Message Queues & Inter-Service Communication
+- System Reliability & Fault Tolerance
+
+### 🤖 AI Engineering & Intelligent Systems
+
+I'm particularly interested in building practical AI-powered products and intelligent systems.
 
 My areas of focus include:
 
-**Generative AI · RAG · NLP · LLMs · AI Agents · MCP · Vector Databases · Semantic Search**
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
+- AI Agents & Agentic Workflows
+- Model Context Protocol (MCP)
+- Vector Databases & Semantic Search
+- Embeddings & Context Engineering
+- AI-powered Automation
+- LLM Application Architecture
+- AI API Integrations & Intelligent Microservices
 
-My interest is not simply in integrating AI into applications.
+My interest goes beyond simply integrating AI APIs into applications. I want to build **useful, reliable, secure, and production-ready AI systems** that solve meaningful problems.
 
-I'm interested in building **useful, reliable, and production-ready intelligent systems** that solve real problems and improve how products work.
+### ☁️ Cloud, DevOps & Infrastructure
 
----
+I work with modern infrastructure and deployment technologies to build, deploy, and operate production applications.
 
-### ☁️ Cloud & Engineering Infrastructure
+**Cloud & Infrastructure:**  
+AWS · EC2 · RDS · S3 · Cloud Architecture · Serverless
 
-I work with modern cloud and infrastructure technologies including:
+**Containers & Orchestration:**  
+Docker · Containerization · Kubernetes
 
-**AWS · Docker · CI/CD · Microservices · Serverless · Container Orchestration · Infrastructure Automation**
+**CI/CD & Automation:**  
+GitHub Actions · CI/CD Pipelines · Deployment Automation · Infrastructure Automation
 
-I'm also focused on:
+**Production Engineering:**  
+Nginx · Monitoring · Observability · Logging · Performance Optimization · Application Reliability
 
-**Monitoring · Observability · API Design · Performance Optimization**
+### 🗄️ Databases & Data Technologies
+
+I work with relational and non-relational databases, focusing on data modeling, query performance, consistency, and scalability.
+
+**Relational:** PostgreSQL · MySQL
+
+**NoSQL:** MongoDB
+
+**Caching & In-Memory:** Redis
+
+**Data & ORM:** Prisma · TypeORM · Sequelize · Mongoose · Hibernate/JPA
+
+### 🛠️ Engineering Practices & Tools
+
+Git · GitHub · GitHub Actions · Linux · Bash · Postman · Swagger/OpenAPI · Automated Testing · Unit Testing · Integration Testing · Code Reviews · Agile Development · Technical Documentation
 
 ---
 
 ## 👥 Technical Leadership
 
-As a **Team Lead**, I work beyond individual implementation.
+Technical leadership is more than managing tasks or reviewing pull requests. It's about establishing direction, enabling engineers, and making decisions that improve the quality and effectiveness of the entire engineering organization.
 
-I enjoy:
+Throughout my experience, I've worked on:
 
-* Defining technical direction
-* Making architectural decisions
-* Breaking down complex problems
-* Mentoring engineers
-* Reviewing and improving code
-* Establishing engineering standards
-* Collaborating with product and business teams
-* Helping teams deliver reliably
-* Improving development processes
+- Defining technical strategy and engineering direction
+- Designing application and system architectures
+- Leading engineering teams and cross-functional collaboration
+- Breaking down complex requirements into technical solutions
+- Evaluating technologies, patterns, and architectural trade-offs
+- Establishing coding standards and engineering best practices
+- Conducting architecture reviews and code reviews
+- Mentoring engineers and supporting their professional growth
+- Improving development workflows and delivery processes
+- Driving performance, reliability, and maintainability improvements
+- Collaborating with product, business, and stakeholders
 
-I believe a strong technical leader should not become the bottleneck for a team.
+I've also had the opportunity to lead and coordinate engineering teams of **20+ engineers**.
 
-The goal is to **enable engineers to make better decisions and build better systems independently**.
+I believe a strong technical leader should not become the bottleneck for a team. The goal is to **build engineering capabilities, establish clear technical direction, and enable people to make better decisions independently**.
+
+---
+
+## 📦 Open Source, Boilerplates & Engineering Projects
+
+I enjoy building reusable engineering foundations, exploring modern technologies, and sharing practical implementations that can help other developers build better software.
+
+### NestJS Boilerplate
+
+A reusable backend starter built with NestJS, providing a structured foundation for developing scalable and maintainable Node.js applications.
+
+**Repository:** [Boilerplate-s/nestjs-boilerplate](https://github.com/Boilerplate-s/nestjs-boilerplate)
+
+### Hono + Bun Boilerplate
+
+A modern, lightweight backend boilerplate built with Hono and Bun, focused on clean project foundations and efficient API development.
+
+**Repository:** [Boilerplate-s/hono-bun-boilerplate](https://github.com/Boilerplate-s/hono-bun-boilerplate)
+
+I'm continuously exploring better architectural patterns, development workflows, and technologies that improve how software is designed, built, and maintained.
 
 ---
 
 ## 🧠 Engineering Principles
 
-> **Keep systems simple.**
+> **Understand the problem before choosing the technology.**
 
-> **Design for failure.**
+> **Keep systems simple, but not simplistic.**
 
-> **Build for change.**
+> **Design for failure, not just the happy path.**
 
-> **Automate repetitive work.**
+> **Build for change, not just the initial requirements.**
 
-> **Measure impact, not activity.**
+> **Measure performance instead of guessing.**
 
-> **Choose technology based on the problem.**
+> **Automate repetitive work and eliminate unnecessary complexity.**
 
-> **Good architecture enables good teams.**
+> **Treat security, reliability, and maintainability as engineering responsibilities.**
+
+> **Good architecture should enable teams, not constrain them.**
 
 ---
 
 ## 🚀 What I'm Currently Exploring
 
-I'm continuously deepening my knowledge in areas that help me become a stronger software architect and technical leader.
+I'm continuously deepening my knowledge in areas that help me become a stronger Principal Engineer, software architect, and technical leader.
 
-Currently exploring:
+Current areas of exploration:
 
-* Distributed Systems
-* System Design
-* Java & Spring Boot
-* JVM Internals
-* Concurrency
-* Database Architecture & Optimization
-* Cloud Architecture
-* Kubernetes
-* Event-Driven Systems
-* Generative AI
-* LLM Architecture
-* AI Agents
-* Model Context Protocol
+- Advanced System Design & Distributed Systems
+- Domain-Driven Design & Architectural Patterns
+- Java & Spring Boot Ecosystem
+- JVM Internals, Memory Management & Concurrency
+- Database Internals, Architecture & Optimization
+- Cloud-Native & Kubernetes Architecture
+- Event-Driven & Asynchronous Systems
+- High-Availability & Fault-Tolerant Systems
+- Generative AI & LLM Application Architecture
+- RAG, AI Agents & Agentic Systems
+- Model Context Protocol (MCP)
+- Production AI Engineering & Automation
 
 ---
 
 ## 🌐 Want to Know More About My Work?
 
-This README gives you an overview of who I am as an engineer.
+This profile provides an overview of my engineering interests, technical expertise, and projects.
 
-For the **complete picture of my professional experience, projects, architecture work, technical expertise, engineering impact, and career journey**, check out my portfolio:
+For a more comprehensive view of my **professional experience, selected projects, technical capabilities, architecture work, and engineering journey**, visit my portfolio:
 
 ### 👉 [irfan-ali-portfolio.vercel.app](https://irfan-ali-portfolio.vercel.app/)
 
@@ -199,21 +276,26 @@ For the **complete picture of my professional experience, projects, architecture
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with engineers, technical leaders, founders, and people building interesting products and systems.
+I'm always open to connecting with engineers, architects, founders, and people building meaningful products.
 
-<p align="left">
-  <a href="https://irfan-ali-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://irfan-ali-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="View Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-irfan-ali-engineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-irfan-ali-engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="Connect on LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Open to meaningful conversations, collaboration, and exciting engineering opportunities.</sub>
 </p>
 
 ---
 
 <p align="center">
 
-**Architect systems · Lead teams · Build for scale**
+**Architect systems · Engineer solutions · Lead teams · Build for scale**
 
 </p>
