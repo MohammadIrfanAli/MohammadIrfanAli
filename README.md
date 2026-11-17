@@ -214,7 +214,7 @@ Want to learn more about my professional journey, engineering experience, select
 **Explore my portfolio for a closer look at the work behind the engineering.**
 
 <p align="center">
-  <a href="https://irfan-ali-portfolio.vercel.app/">
+  <a href="https://www.irfanaliengineer.com">
     <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-1F2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio" />
   </a>
 </p>
@@ -228,7 +228,7 @@ Always happy to connect with fellow engineers, software architects, technical le
     <img src="https://img.shields.io/badge/LET'S_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://irfan-ali-portfolio.vercel.app/">
+  <a href="https://www.irfanaliengineer.com">
     <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio" />
   </a>
 </p>
